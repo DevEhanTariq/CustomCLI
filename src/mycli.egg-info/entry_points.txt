@@ -1,0 +1,2 @@
+[console_scripts]
+easi = mycli.main:main
